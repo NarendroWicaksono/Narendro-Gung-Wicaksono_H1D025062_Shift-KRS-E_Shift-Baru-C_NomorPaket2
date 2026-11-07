@@ -1,6 +1,6 @@
 public abstract class BahanBakar {
 
-    public static final String NAMA_SPBU = "SPBU Pertamina 44.532.02";
+    public static final String NAMA_SPBU = "SPBU Pertamina Kalimanah";
     public static final double STOK_AWAL = 1000;
 
     private final String kode;
