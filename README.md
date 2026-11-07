@@ -26,5 +26,5 @@ java Main
 
 ## Luaran Program (Console Output)
 
-<img width="648" height="1002" alt="Screenshot 2026-11-08 004508" src="https://github.com/user-attachments/assets/3cd129d4-98ac-47fa-ae87-ca16496fa33b" />
+<img width="657" height="1001" alt="Screenshot 2026-11-08 010146" src="https://github.com/user-attachments/assets/7dc10fb9-d339-4006-bdad-82dec1cdd947" />
 
